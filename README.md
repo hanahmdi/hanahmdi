@@ -4,12 +4,12 @@
 
 I'm an electrical engineering student interested in control systems, robotics, computer vision, and embedded systems. My work combines mathematical modeling, simulation, programming, and hands-on engineering.
 
-
+&nbsp;
 ## Technical Skills
 
 MATLAB · Simulink · Python · C++ · OpenCV · MediaPipe · ROS 2 · Arduino · OrCAD · Proteus 
 
-
+&nbsp;
 ## Areas of Focus
 
 - Control system modeling, simulation, and feedback design
@@ -17,7 +17,7 @@ MATLAB · Simulink · Python · C++ · OpenCV · MediaPipe · ROS 2 · Arduino �
 - Embedded systems and digital design
 - Industrial testing, measurement, and automation
 
-
+&nbsp;
 ## Explore My Work
 
 Browse my [repositories](https://github.com/hanahmdi?tab=repositories) for projects, technical reports, and engineering documentation.
