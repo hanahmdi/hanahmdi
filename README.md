@@ -2,11 +2,11 @@
 
 **Electrical Engineering | Control Systems & Robotics**
 
-I'm an electrical engineering student interested in control systems, robotics, computer vision, and embedded systems. My work combines mathematical modeling, simulation, programming, and hands-on engineering, with an emphasis on connecting theoretical concepts to practical applications.
+I'm an electrical engineering student interested in control systems, robotics, computer vision, and embedded systems. My work combines mathematical modeling, simulation, programming, and hands-on engineering.
 
 ### Technical Skills
 
-MATLAB · Simulink · Python · C++ · OpenCV · MediaPipe · ROS 2 · Arduino · OrCAD · Proteus · Git
+MATLAB · Simulink · Python · C++ · OpenCV · MediaPipe · ROS 2 · Arduino · OrCAD · Proteus 
 
 ### Areas of Focus
 
