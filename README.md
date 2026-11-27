@@ -6,7 +6,7 @@ I'm an electrical engineering student interested in control systems, robotics, c
 
 ## Technical Skills
 
-MATLAB - Simulink · Python · C++ · OpenCV · MediaPipe · ROS 2 · Arduino · OrCAD · Proteus 
+MATLAB · Simulink · Python · C++ · OpenCV · MediaPipe · ROS 2 · Arduino · OrCAD · Proteus 
 
 ## Areas of Focus
 
